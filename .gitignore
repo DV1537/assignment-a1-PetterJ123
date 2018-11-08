@@ -1,1 +1,2 @@
-./idea
+# Ignores all files and subfolders under .idea/
+.idea/*
