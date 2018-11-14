@@ -43,7 +43,7 @@ int main(int argc, const char * argv[]){
 
 	for(int i=0; i<count; i++){
 		if(average < arr[i]){
-			std::cout << arr[i] << " is greater than " << average << "\n";
+			std::cout << arr[i] << " ";
 		}
 	}
 
